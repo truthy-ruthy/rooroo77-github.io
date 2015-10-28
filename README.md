@@ -1,5 +1,7 @@
 
 ###Welcome!
+<img src="http://i.imgur.com/ugZbhqvt.jpg?1"/></a>
+
 
 I'm Ruth, a smart, compassionate individual with a desire to learn and the gumption of a fox. I grew up in Oregon, studied in Los Angeles, wandered the streets of London and perused the parks of Ann Arbor, Michigan before moving to Chicago in July 2013. <br>
 Favorite foods are:
