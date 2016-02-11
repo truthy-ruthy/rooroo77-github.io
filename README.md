@@ -23,7 +23,4 @@ Send me an email to fine out more at runic77@gmail.com<br>
 
 > "If at first you don't succeed, fry, fry a hen."
 
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
+
